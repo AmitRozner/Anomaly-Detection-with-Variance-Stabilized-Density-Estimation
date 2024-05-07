@@ -1,0 +1,15 @@
+README.md
+setup.py
+./nits/__init__.py
+./nits/autograd_model.py
+./nits/cnn_model.py
+./nits/discretized_mol.py
+./nits/fc_model.py
+./nits/layer.py
+./nits/model.py
+./nits/resmade.py
+./nits/unit_tests.py
+./nits.egg-info/PKG-INFO
+./nits.egg-info/SOURCES.txt
+./nits.egg-info/dependency_links.txt
+./nits.egg-info/top_level.txt
